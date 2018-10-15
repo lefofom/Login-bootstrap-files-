@@ -1,6 +1,5 @@
-# Login-bootstrap-files-
+# Login-jQuery-files-
 
-bootstrap
-malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min
+Or if You would like to Add Your Angular Code and Type-Script on it
 
 And a Whole lot of jquery....
